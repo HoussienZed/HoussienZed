@@ -10,9 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m learning to be a **Full-stack Web Developer**
+ 💻 Second-year Computer Science student
  
- 🌱 I’m currently learning **Python**
+ 🔍 Passionate about algorithms, web development, and data science
+
+ 🚀 Eager to learn and explore new technologies through projects and collaborations
+
+ 🤝 Open to internships, teamwork, and knowledge-sharing opportunities
 
  </div>
 
