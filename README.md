@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
-<h3 align="center">A passionate web developer in the making from Lebanon ʟʙ</h3>
+<h3 align="justify-content">A passionate web developer in the making from Lebanon ʟʙ</h3>
 
 <br/>
 
-<div align="center">
+<div align="justify-content">
  
  💻 Second-year Computer Science student
  
