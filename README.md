@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1> -->
 
-<h3 align="justify-content">A passionate web developer in the making from Lebanon ʟʙ</h3>
+<h3 align="justify-content">Enthusiastic web development student, eager to learn and grow in the world of coding. 
+                    Currently building skills in HTML, CSS, JavaScript, Python, and MySql. <br> <br> Excited to explore frameworks, backend technologies, and modern development practices. 
+                    Passionate about solving problems and continuously improving as I learn more about web development</h3>
 
 <br/>
 
