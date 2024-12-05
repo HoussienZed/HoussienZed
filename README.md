@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="justify-content">
+<!--  <div align="justify-content">
  
  <ion-icon name="book"></ion-icon> Enthusiastic web development student, eager to learn and grow in the world of coding.
  
@@ -20,7 +20,7 @@
 
  🤝 Open to internships, teamwork, and knowledge-sharing opportunities
 
- </div>
+ </div> -->
 
  <div align="center"> 
   <a href="mailto:7sienzd@gmail.com">
