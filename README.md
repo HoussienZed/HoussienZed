@@ -12,9 +12,9 @@
 
 <div align="justify-content">
  
- 💻 Second-year Computer Science student
+ <ion-icon name="book"></ion-icon> Enthusiastic web development student, eager to learn and grow in the world of coding.
  
- 🔍 Passionate about algorithms, web development, and data science
+ <ion-icon name="search"></ion-icon> Currently building skills in HTML, CSS, JavaScript, Python, and MySql. 
 
  🚀 Eager to learn and explore new technologies through projects and collaborations
 
@@ -63,6 +63,9 @@
 <hr/>
 
 <br/>
+
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
 <!---
 HoussienZed/HoussienZed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
